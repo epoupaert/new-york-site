@@ -1,5 +1,5 @@
 {
-  "name": "ny1",
+  "name": "my-yo-project",
   "private": true,
   "dependencies": {
     "chai": "~1.8.0",
